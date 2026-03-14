@@ -1,0 +1,31 @@
+
+VISUALIZATION SUMMARY
+========================
+
+Chart 1: National Trend (2011-2024)
+- Filename: chart1_national_trend.png
+- Shows: National average HLE gap increasing over time
+- Key finding: Gap increased from ~19 to ~21 years
+
+Chart 2: Traffic Light Breakdown
+- Filename: chart2_traffic_light.png
+- Shows: Distribution of areas by status (green/amber/red)
+- Key finding: Only 14% improving, 86% declining
+
+Chart 3: Best vs Worst Performers
+- Filename: chart3_best_worst.png
+- Shows: Top 10 improving and top 10 declining areas
+- Key finding: Range of 10+ years between best and worst
+
+Chart 4: Deprivation Scatter Plot
+- Filename: chart4_deprivation_scatter.png
+- Shows: Relationship between deprivation and change
+- Key finding: Weak correlation (0.076) - deprivation not the driver
+
+Chart 5: 2035 Target vs Reality
+- Filename: chart5_target_vs_reality.png
+- Shows: Government target vs projected outcome
+- Key finding: Will miss target by 1.6 years
+
+All charts saved to: outputs/
+Resolution: 300 DPI (publication quality)
