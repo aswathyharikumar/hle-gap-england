@@ -140,8 +140,8 @@ python dashboard_app.py
 
 Public Health Analyst | Data Science Enthusiast
 
-📧 [aswathyharikumar.sbya@gmail.com]  
-💼 [www.linkedin.com/in/aswathyharikumar0311]  
+📧 aswathyharikumar.sbya@gmail.com
+💼 www.linkedin.com/in/aswathyharikumar0311 
 
 
 ---
