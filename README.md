@@ -45,7 +45,7 @@ If current trends continue, the inequality gap between rich and poor areas will 
 ## 🗂️ Data Sources
 
 - **Office for National Statistics (ONS)** - Health State Life Expectancy by Local Areas, UK (2011-2024)
-- **Ministry of Housing, Communities and Local Government** - Index of Multiple Deprivation 2019
+- **Ministry of Housing, Communities and Local Government** - Index of Multiple Deprivation 2025
 - **Coverage:** 128 English local authorities with complete 12-year data (out of 218 total)
 
 ---
