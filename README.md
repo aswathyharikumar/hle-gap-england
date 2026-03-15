@@ -140,9 +140,9 @@ python dashboard_app.py
 
 Public Health Analyst | Data Science Enthusiast
 
-📧 [Your email if you want to include it]  
-💼 [LinkedIn profile if you want to include it]  
-🌐 [Portfolio website if you have one]
+📧 [aswathyharikumar.sbya@gmail.com]  
+💼 [www.linkedin.com/in/aswathyharikumar0311]  
+
 
 ---
 
